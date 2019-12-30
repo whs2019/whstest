@@ -32,7 +32,7 @@ def file2matrix(filename):
         index += 1
     return returnMat, classLabelVector
 
-
+# 2019/12/30
 if __name__ == '__main__':
     #打开的文件名
     filename = "D:\datingTestSet.txt"
